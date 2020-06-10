@@ -1,4 +1,0 @@
-## Description
-
-* Ticket : #
-* Description : 
